@@ -8,4 +8,4 @@ This GitHub organization contains open-source tools and pipelines developed by t
 
 Although NCFAD primarily deals with pathogenic animal or zoonotic viruses such as [SARS-CoV-2](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3/), [FMDV](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=12110), [CSFV](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11096), [ASFV](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=10497) and [avian influenza virus](https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi?go=database), we have experience working with bacterial, 16S and RNASeq data as well.
 
-![](https://github.com/CFIA-NCFAD/.github/raw/main/img/ncfad-genomics-unit-workflow-sample-to-results.png)
+![](https://github.com/CFIA-NCFAD/.github/raw/main/img/lab_overview.png)
